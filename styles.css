@@ -86,7 +86,7 @@ body { cursor: none; height: 100%; width: 100%;}
     .hero-title { max-width: 100%; font-size: 30px; margin-top: 5%;}
     .hero-description { max-width: 100%;  margin-top: 0px; padding: 0 0 0 0; font-size: 20px;}  
     .profile-image-wrapper {  margin-top: 1%; border-radius: 50%; display: flex; width: 180px; max-width: 100%; align-items: center; justify-content: center; }
-    .hero-section { width: 70vw; max-height: 800px; 120vh; }
+    .hero-section { width: 70vw; max-height: 800px; }
     .section-title { font-size: 30px; margin-left: 0%;}
     .project-section { max-width: 80vw; margin-top: 40px; padding: 0 20px; }
     .footer { width: 100vw; height: 20vh; max-height: 100px; margin-top: 40px; padding: 0 0px; align-items: center; text-align: center;}
