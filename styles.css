@@ -16,7 +16,7 @@ body { cursor: none; height: 100%; width: 100%;}
 .nav-link { font-family: Plus Jakarta Sans, sans-serif; color: white; cursor: none;}
 .nav-link:hover { font-size: 20px; }
 
-.hero-section { border-radius: 20px; background-color: #565d54; display: flex; margin-top: 67px; width: 65vw; max-width: 1200px; height: 60vh; flex-direction: column; align-items: center; padding: 58px 62px;}
+.hero-section { border-radius: 20px; background-color: #565d54; display: flex; margin-top: 67px; width: 65vw; max-width: 1200px; height: 70vh; max-height: 900px; flex-direction: column; align-items: center; padding: 58px 62px;}
 
 .profile-image-wrapper {position: relative; border-radius: 50%; display: flex; width: 280px; max-width: 100%; align-items: center; justify-content: center; padding: 20px 20px; }
 .profile-image { position: absolute; aspect-ratio: 0.99; object-fit: cover; object-position: center; width: 65%; }
